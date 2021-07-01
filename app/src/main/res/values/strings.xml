@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TakeNotes</string>
+    <string name="rohit">Rohit</string>
+    <string name="todo">TODO</string>
+    <string name="submit">Submit</string>
+    <string name="enter_title_here">Enter Title here</string>
+</resources>
